@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\DeEpRo\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\DeEpRo\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\DeEpRo\\.nuget\\packages"
     ]
   }
 }

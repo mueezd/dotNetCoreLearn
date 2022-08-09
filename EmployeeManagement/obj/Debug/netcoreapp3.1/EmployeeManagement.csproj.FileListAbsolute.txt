@@ -17,3 +17,22 @@ D:\Development\DOTNET Core\PractiseApp\EmployeeManagement\EmployeeManagement\obj
 D:\Development\DOTNET Core\PractiseApp\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
 D:\Development\DOTNET Core\PractiseApp\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
 D:\Development\DOTNET Core\PractiseApp\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.exe
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.deps.json
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.json
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
+F:\Workshop\LearnDotNetCore\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.AssemblyReference.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
+F:\Workshop\LearnDotNetCore\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
